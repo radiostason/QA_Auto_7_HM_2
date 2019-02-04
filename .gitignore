@@ -1,0 +1,9 @@
+# ignore the folder and all subfolders below
+/.idea/*
+
+
+# ignore the file .md ONLY in the current project folder
+*.md
+
+# ignore the file .iml 
+*.iml
